@@ -1,7 +1,1 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "The School is open  waw this is bulky conflict!"
-this is done to solve the conflict
-=======
-echo "The School is open!"
->>>>>>> update_script
+this is updating 
