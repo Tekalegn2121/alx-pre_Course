@@ -1,9 +1,4 @@
 #!/bin/bash
 echo " School is so cool!"
-=======
+
 echo "ALX School"
->>>>>>> update_script
-this is done to a void conflict
-=======
-echo "ALX School"
->>>>>>> update_script
