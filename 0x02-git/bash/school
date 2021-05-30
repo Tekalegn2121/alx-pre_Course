@@ -1,1 +1,2 @@
-this is updating 
+#!/bin/bash
+echo "Wel come to Alex"
